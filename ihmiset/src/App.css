@@ -1,0 +1,16 @@
+.kortti {
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+  max-width: 350px;
+  min-width: 350px;
+  border: 2px solid rgb(0, 0, 0);
+  border-radius: 40px;
+}
+.kortit {
+  display: flex;
+  flex-wrap: wrap;
+}
+.paksu {
+  font-weight: 800;
+}
