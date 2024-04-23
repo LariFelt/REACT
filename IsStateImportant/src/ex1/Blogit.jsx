@@ -5,19 +5,19 @@ const Blogit = () => {
     {
       otsikko: "Uusi websaittini",
       sisalto: "Lorem ipsum...",
-      tekija: "Jyri",
+      tekija: "Lari",
       id: 1,
     },
     {
       otsikko: "Tervetuloa juhliin",
       sisalto: "Lorem ipsum...",
-      tekija: "Ari",
+      tekija: "Kari",
       id: 2,
     },
     {
       otsikko: "Web dev parhaimmat vinkit",
       sisalto: "Lorem ipsum...",
-      tekija: "Harri",
+      tekija: "Ari",
       id: 3,
     },
   ]);
