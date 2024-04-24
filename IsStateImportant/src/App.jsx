@@ -2,13 +2,6 @@ import React from "react";
 
 export default function App() {
   const [isImportant, setIsImportant] = React.useState("Yes");
-  /**
-   * Challenge:
-   * 1. Create a function called `handleClick` that runs
-   *    setIsImportant("No")
-   * 2. add a click event listener to the div.state--value
-   *    that runs `handleClick` when the div is clicked.
-   */
   function handleClick() {
     setIsImportant("No");
   }

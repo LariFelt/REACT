@@ -3,7 +3,6 @@ import React from "react";
 const Tekstilaatikko = () => {
   const [teksti, setTeksti] = React.useState("");
   function hallitseMuutoksia(e) {
-    //console.log(e);
     setTeksti(e.target.value);
   }
   return (
